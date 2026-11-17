@@ -34,5 +34,6 @@ Deleting or renaming a file breaks its link.
 | /files/ai-studio-pricing.pdf | AI Studio pricing brochure |
 | /files/campus-chat-plus-pricing.pdf | Campus Chat Plus pricing brochure |
 | /files/data-bridge-pricing.pdf | Data Bridge pricing brochure |
+| /files/montgomery-county-customer-story.pdf | Montgomery County, MD customer story (Accessibility) |
 
 Each pricing brochure also has a print version at the same name ending in `-print.pdf`, for example `/files/retention-agent-pricing-print.pdf`.
