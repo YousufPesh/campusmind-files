@@ -27,6 +27,7 @@ Deleting or renaming a file breaks its link.
 | Link | What it is |
 |---|---|
 | /files/pdf-accessibility-guide.pdf | PDF Accessibility Guide |
+| /files/accessibility-agent-brochure.pdf | Accessibility Agent brochure |
 | /files/accessibility-agent-pricing.pdf | Accessibility Agent pricing brochure |
 | /files/retention-agent-pricing.pdf | Retention Agent pricing brochure |
 | /files/recruitment-agent-pricing.pdf | Recruitment Agent pricing brochure |
