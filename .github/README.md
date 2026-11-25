@@ -28,6 +28,7 @@ Deleting or renaming a file breaks its link.
 |---|---|
 | /files/pdf-accessibility-guide.pdf | PDF Accessibility Guide |
 | /files/accessibility-agent-brochure.pdf | Accessibility Agent brochure |
+| /files/virtual-teaching-assistant-brochure.pdf | Virtual Teaching Assistant brochure |
 | /files/accessibility-agent-pricing.pdf | Accessibility Agent pricing brochure |
 | /files/retention-agent-pricing.pdf | Retention Agent pricing brochure |
 | /files/recruitment-agent-pricing.pdf | Recruitment Agent pricing brochure |
